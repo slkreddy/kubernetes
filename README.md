@@ -17,7 +17,7 @@ kubectl get deploy --all-namespaces
 
 Gives Pod and Node info
 --------------------------
-kubectl get pods -o wide'
+kubectl get pods -o wide
 
 Serialize pod def to local yaml
 ----------------------
